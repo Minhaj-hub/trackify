@@ -12,14 +12,14 @@ Project setup guide:
 
 Postman mock server : https://f29241f5-f851-445e-9dae-15b81982a2fc.mock.pstmn.io/orders
    
-* Covered section:
+Covered section:
 
 - Login Screen 
 - Dashboard View
 - Orders Section
 
    
-* Uncovered section:
+Uncovered section:
 
 - Order Location Tracking
 - Push Notifications 
