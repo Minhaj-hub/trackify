@@ -22,7 +22,9 @@ Covered section:
 Uncovered section:
 
 - Order Location Tracking
-- Push Notifications 
+- Push Notifications
+
+This app is not particularly complex; however, the screens are not properly linked with each other in the Figma file, which caused some confusion during the development process.
 
 Note: 
 * In order to trigger or activate the Order Location Tracking and Push Notifications features, they need to be triggered by another app or system. However, due to time constraints, creating an additional system is not feasible. Therefore, these sections have been omitted.
