@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104432287034",
+    "project_id": "trackify-f887d",
+    "storage_bucket": "trackify-f887d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104432287034:android:cf97c1221ff2483a74a403",
+        "android_client_info": {
+          "package_name": "com.minhaj.trackify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD9iqQVM48--ZXMhW0tZBKXDJgkqcYAjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
